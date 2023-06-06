@@ -1,5 +1,7 @@
-body{background-color: x;}
-body{background-image: linear-gradient(to x, x, x);}
+body{background-color: rgb(rgb(87, 44, 44), rgb(0, 184, 0), rgb(43, 43, 80)) x;}
+body{background-image: linear-gradient(to , left, right);}
+body{text-align: center;}
+footer{text-align: right;}
 
 
 
